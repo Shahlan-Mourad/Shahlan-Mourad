@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing a new app for seamless collaboration among remote teams, focusing on productivity and communication. Building projects to sharpen my .NET skills and understanding the framework’s capabilities.<br><br>🤝 I’m looking for help with: Learning best practices and real-world applications in .NET development. Any resources or advice would be great!<br><br>🌱 I’m currently learning: Advanced concepts in C# and ASP.NET Core to develop robust and scalable applications.<br><br>💬 Ask me about: How to get started with .NET, common pitfalls to avoid, or any programming-related topics. I’m here to support your learning journey.<br><br>⚡ Fun fact: Did you know that the original name for the .NET framework was NGWS, which stands for Next Generation Windows Services?
+🔭 I’m currently working on: Developing a new app for seamless collaboration among remote teams, focusing on productivity and communication. Building projects to sharpen my .NET skills and understanding the framework’s capabilities.<br><br>🤝 I’m looking for help with: Learning best practices and real-world applications in .NET development. Any resources or advice would be great!<br><br>🌱 I’m currently learning: Advanced concepts in C# and ASP.NET Core to develop robust and scalable applications.<br><br>
 
 
 ## 🌐 Socials:
