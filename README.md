@@ -24,11 +24,8 @@
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahlan-Mourad&theme=dark&count_private=false" alt="GitHub stats">
+  <img height="165" src="https://streak-stats.demolab.com/?user=Shahlan-Mourad&theme=dark" alt="GitHub streak">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahlan-Mourad&theme=dark&layout=compact" alt="Most used languages">
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=Shahlan-Mourad&theme=dark" alt="GitHub streak">
 </p>
 
 ## 📫 Contact
